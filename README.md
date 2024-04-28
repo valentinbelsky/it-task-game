@@ -1,8 +1,8 @@
 ## Console game
 Rock, scissors, paper, lizard, Spock
 
-###Run
+### Run
 
 php index.php Rock, Paper, Scissors, Lizard, Spock
 
-###There is also "help"
+### There is also "help"
